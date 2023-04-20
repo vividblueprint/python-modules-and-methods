@@ -1,4 +1,4 @@
-# TKenter
+# TKinter
 
 ```
 1. _Misc__winfo_getint
